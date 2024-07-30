@@ -1,0 +1,17 @@
+{
+    "name": "com.alex-kumpula.magnesis-screen-shaders",
+    "version": "1.0.0",
+    "displayName": "Magnesis Screen Shaders",
+    "description": "Screenspace shaders for neat visuals.",
+    "unity": "2022.3",
+    "unityRelease": "4f1",
+    "documentationUrl": "https://example.com/",
+    "keywords": [
+        "Screenspace",
+        "Shader",
+        "Postprocess"
+    ],
+    "author": {
+        "name": "Alex Kumpula"
+    }
+}
